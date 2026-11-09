@@ -1,0 +1,13 @@
+../Core/Src/max7219.c:21:6:MAX7219_Init	24	static
+../Core/Src/max7219.c:34:6:MAX7219_Write	24	static
+../Core/Src/max7219.c:63:6:MAX7219_Digit	16	static
+../Core/Src/max7219.c:73:6:MAX7219_Decode	16	static
+../Core/Src/max7219.c:82:6:MAX7219_Intensity	16	static
+../Core/Src/max7219.c:92:6:MAX7219_ScanLimit	16	static
+../Core/Src/max7219.c:102:6:MAX7219_ShutDown	16	static
+../Core/Src/max7219.c:112:6:MAX7219_Test	16	static
+../Core/Src/max7219.c:122:13:SS_Select	8	static
+../Core/Src/max7219.c:128:13:SS_Deselect	8	static
+../Core/Src/max7219.c:134:13:SPI_Tx	16	static
+../Core/Src/max7219.c:140:13:DelayInit	4	static,ignoring_inline_asm
+../Core/Src/max7219.c:156:13:DelayUS	32	static
